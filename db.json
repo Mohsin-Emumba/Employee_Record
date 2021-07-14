@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.infowwwwwwww",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "name": "Engr. Mohsan Ali Khan",
+      "username": "Mohsan_Ali_Khan",
+      "email": "mohsinniazi262@gmail.com",
+      "phone": "03048907184",
+      "website": "abcd",
+      "id": 11
+    },
+    {
+      "name": "Ahsan",
+      "username": "Ahsan11",
+      "email": "mohsinniazi262@mail.com",
+      "phone": "03048907184",
+      "website": "ahsan.com",
+      "id": 12
+    },
+    {
+      "name": "Ahsan",
+      "username": "Ahsan11e",
+      "email": "mohsinniazi262@mail.com",
+      "phone": "03048907184",
+      "website": "qwe",
+      "id": 13
+    },
+    {
+      "name": "Ahsan",
+      "username": "adad",
+      "email": "mohsinniazi262@mail.com",
+      "phone": "03048907184",
+      "website": "asdsa",
+      "id": 14
+    },
+    {
+      "name": "Ahsanas",
+      "username": "dasdsasd",
+      "email": "mohsinniazi262@mail.com",
+      "phone": "03048907184",
+      "website": "asdasdsad",
+      "id": 15
+    },
+    {
+      "name": "Ahsan",
+      "username": "Ahsan11essssssss",
+      "email": "mohsinniazi262@mail.com",
+      "phone": "03048907184",
+      "website": "adssasdasad",
+      "id": 16
+    },
+    {
+      "name": "Ali",
+      "username": "Ali123",
+      "email": "ali@gmail.com",
+      "phone": "01292093",
+      "website": "ali.com",
+      "id": 17
+    },
+    {
+      "name": "Moiz",
+      "username": "Moiz123",
+      "email": "Moiz@gmail.com",
+      "phone": "02121930",
+      "website": "moiz.com",
+      "id": 18
+    },
+    {
+      "name": "kamran",
+      "username": "kamran farooq",
+      "email": "kamranfarooq@gmail.com",
+      "phone": "09321947",
+      "website": "kamranfarooq.com",
+      "id": 19
+    },
+    {
+      "name": "Engr. Mohsan Ali Khan",
+      "username": "Ali Khan",
+      "email": "mohsinniazi262@gmail.com",
+      "phone": "03048907184",
+      "website": "ad",
+      "id": 20
+    },
+    {
+      "name": "Engr. Mohsan Ali Khan",
+      "username": "Ali Khan",
+      "email": "mohsinniazi262@gmail.com",
+      "phone": "03048907184",
+      "website": "ad",
+      "id": 21
+    },
+    {
+      "name": "Engr. Mohsan Ali Khan",
+      "username": "Ali Khan",
+      "email": "mohsinniazi262@gmail.com",
+      "phone": "03048907184",
+      "website": "ad",
+      "id": 22
+    }
+  ]
+}
